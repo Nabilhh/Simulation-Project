@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/ic_power.svg</file>
+        <file>icons/ic_increase_intensity.svg</file>
+        <file>icons/ic_decrease_intensity.svg</file>
+        <file>icons/Met.svg</file>
+        <file>icons/100hz.svg</file>
+        <file>icons/Alpha.svg</file>
+        <file>icons/Beta 1.svg</file>
+        <file>icons/Beta 2.svg</file>
+        <file>icons/Delta.svg</file>
+        <file>icons/Sub-Delta.svg</file>
+        <file>icons/Theta.svg</file>
+        <file>icons/customMin.svg</file>
+        <file>icons/excellentconnection.png</file>
+        <file>icons/fortyfivemin.svg</file>
+        <file>icons/noconnection.png</file>
+        <file>icons/okayconnection.png</file>
+        <file>icons/twentymin.svg</file>
+        <file>icons/nobars.png</file>
+        <file>icons/onebar.png</file>
+    </qresource>
+</RCC>
