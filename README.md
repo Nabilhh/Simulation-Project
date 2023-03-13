@@ -1,1 +1,1 @@
-CES Therapy Device simulation Project
+Therapy Device Simulation Project
