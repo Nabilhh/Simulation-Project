@@ -1,1 +1,1 @@
-# comp3004project
+CES Therapy Device simulation Project
